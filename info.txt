@@ -1,0 +1,11 @@
+https://youtu.be/oorfevovPWw
+
+
+https://stackoverflow.com/questions/68265716/react-native-the-development-server-returned-response-error-code-500
+
+https://stackoverflow.com/questions/69647332/cannot-read-properties-of-undefined-reading-transformfile-at-bundler-transfo
+
+
+Try downloading the latest LTS version of node when working, the latest current version is not working
+
+Use the latest LTS version of Node and use the latest version of React Native
